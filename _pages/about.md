@@ -11,7 +11,7 @@ I am a Ph.D. candidate at the College of Land Science and Technology, China Agri
 
 My research interests include:
 * Vegetation Quantitative Remote Sensing
-* Radiative Transfer Modeling (e.g., LESS, PROSPECT)
+* Radiative Transfer Modeling (e.g., SCOPE, LESS, PROSPECT)
 * Hyperspectral Data Analysis
 * 
 你好！我是何亚昌，中国农业大学土地科学与技术学院的博士生。我的研究主要集中在植被定量遥感和辐射传输模型方向。
